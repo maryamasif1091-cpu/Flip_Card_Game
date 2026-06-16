@@ -5,7 +5,8 @@ A modern and interactive Memory Card Game built using React.js. It features smoo
 ##  Live Demo
 
 
-##  Project Overview
+
+##  Overview
 The Memory Card Game is a fun logic-based game where players flip cards to find matching pairs. It improves memory, focus, and cognitive speed while providing an engaging user experience.
 
 ##  Features
@@ -18,9 +19,8 @@ The Memory Card Game is a fun logic-based game where players flip cards to find 
 
 ##  Tech Stack
 - React.js
-- JavaScript (ES6+)
+- JavaScript 
 - CSS3
-- Context API
 - Vite
 
 ##  Project Structure
